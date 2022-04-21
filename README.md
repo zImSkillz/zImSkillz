@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi, mate 👋
 
-<!--
-**zImSkillz/zImSkillz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+- 💎 Java Developer
+- 📝 Lua Scripter
+- 🛡 <a href="https://dsc.gg/lyxos">Project Lyxos (Anticheat and other stuff)</a>
+- ✈️ <a href="https://dsc.gg/%E2%99%A3mlrp%E2%99%A3">ModernLifeRP (German RP Server)</a> 
+- 📫 Discord: zImSkillz#4906
+-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~
+g
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img height="140px" src="https://github-readme-stats.vercel.app/api?username=zImSkillz&show_icons=true&theme=dark" />
