@@ -7,6 +7,8 @@
 - ✈️ <a href="https://dsc.gg/%E2%99%A3mlrp%E2%99%A3">ModernLifeRP (German RP Server)</a> 
 - 📫 Discord: zImSkillz#4906
 
+- https://spambude.net/
+- https://lyxos.de/
 =>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=
 
 
