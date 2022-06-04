@@ -26,7 +26,7 @@
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
-    <a href="https://discord.com/invite/ftyNUQEUBc">
+    <a href="https://discord.com/invite/MhEqPzS5Bw">
         <img title="Project Lyxos Discord" alt="Project Lyxos's Discord" src="https://discord.c99.nl/widget/theme-1/813300902836043797.png"/>
     </a>
 </p>
