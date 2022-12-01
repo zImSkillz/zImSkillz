@@ -7,7 +7,7 @@
 - 📝 Lua Scripter
 - 🛡 <a href="https://dsc.gg/lyxos">Project Lyxos (Anticheat and other stuff)</a>
 - ✈️ <a href="https://dsc.gg/modernliferp">ModernLifeRP (German RP Server)</a> 
-- 📫 Discord: zImSkillz#4906
+- 📫 Discord: zImSkillz#4906 (813300902836043797) > https://discord.id/
 -             
 - https://spambude.net/
 - https://lyxos.de/               
