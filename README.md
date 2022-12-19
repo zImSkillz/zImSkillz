@@ -3,14 +3,16 @@
 <h2 align="center">About me</h2>
 
 =>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=
-- 💎 Java Developer
-- 📝 Lua Scripter
+- 💎 Java & C# Developer
+- 📝 Lua, JavaScript & NodeJS Scripter
 - 🛡 <a href="https://dsc.gg/lyxos">Project Lyxos (Anticheat and other stuff)</a>
-- ✈️ <a href="https://dsc.gg/modernliferp">ModernLifeRP (German RP Server)</a> 
+- ✈️ <a href="https://dsc.gg/modernliferp">ModernLifeRP FiveM (German RP Server)</a> 
+- 🤩 <a href="https://dsc.gg/modernliferpgmod">ModernLifeRP GMOD SCP:RP (German RP Server)</a> 
 - 📫 Discord: zImSkillz#4906 (813300902836043797) > https://discord.id/
 -             
 - https://spambude.net/
-- https://lyxos.de/               
+- https://lyxos.de/
+- https://modernliferp.com/               
 =>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=
 
 
