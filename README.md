@@ -9,6 +9,7 @@
 - ✈️ <a href="https://dsc.gg/modernliferp">ModernLifeRP FiveM (German RP Server)</a> 
 - 🤩 <a href="https://dsc.gg/modernliferpgmod">ModernLifeRP GMOD SCP:RP (German RP Server)</a> 
 - 📫 Discord: zImSkillz#4906 (813300902836043797) > https://discord.id/
+- Male • Pansexual 🏳️‍🌈 I like furrys🌈
 -             
 - https://spambude.net/
 - https://lyxos.de/
