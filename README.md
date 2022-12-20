@@ -8,7 +8,7 @@
 - 🛡 <a href="https://dsc.gg/lyxos">Project Lyxos (Anticheat and other stuff)</a>
 - ✈️ <a href="https://dsc.gg/modernliferp">ModernLifeRP FiveM (German RP Server)</a> 
 - 🤩 <a href="https://dsc.gg/modernliferpgmod">ModernLifeRP GMOD SCP:RP (German RP Server)</a> 
-- 📫 Discord: zImSkillz#4906 (813300902836043797) > https://discord.id/
+- 📫 Discord: zImSkillz#5637 (813300902836043797) > https://discord.id/
 - Male • Pansexual 🏳️‍🌈 I like furrys🌈
 -             
 - https://spambude.net/
