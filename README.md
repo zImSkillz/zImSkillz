@@ -24,8 +24,11 @@
 <h2 align="center">Social Media</h2>
 | 🔴 YouTube: https://www.youtube.com/c/zImSkillz
 | 🔵 Twitter: https://twitter.com/_zimskillz
-| 🟣 Linktree: https://linktr.ee/zimskillz 
-|
+| 🟣 Linktree: https://linktr.ee/zimskillz
+<p> </p>
+| 🟠 CFX.RE: https://forum.cfx.re/u/zimskillz1/
+| 🟡 Steam: https://steamcommunity.com/id/zImSkillz/
+| 🟢 Email: mailto:merlin@spambude.net
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
