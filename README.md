@@ -28,7 +28,6 @@
 <p> </p>
 | 🟠 CFX.RE: https://forum.cfx.re/u/zimskillz1/
 | 🟡 Steam: https://steamcommunity.com/id/zImSkillz/
-| 🟢 Email: mailto:merlin@spambude.net
 
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
