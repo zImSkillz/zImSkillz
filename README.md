@@ -13,7 +13,8 @@
 -             
 - https://spambude.net/
 - https://lyxos.de/
-- https://modernliferp.com/               
+- https://modernliferp.com/
+- https://cloudassets.eu/               
 =>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=>=
 
 
